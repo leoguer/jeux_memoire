@@ -1,10 +1,9 @@
-
-
 <template>
   <div>
     <h1>Montagnes</h1>
     {{card}}
     <LazyCard :title="card" />
+    <nuxt-link to="/board">Board Game</nuxt-link>
   </div>
 </template>
 
@@ -19,7 +18,10 @@ import Card from '../model/Card.js'
       }
     },
     created() {
+      this.$store.commit('connection')
+      console.log(this.$store.state.authenticated)
        
-    },
+      }
+
   }
 </script>

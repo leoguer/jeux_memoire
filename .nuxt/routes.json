@@ -1,9 +1,14 @@
 [
   {
+    "name": "board",
+    "path": "/board",
+    "component": "D:\\\\Leo\\\\Site\\\\nuxtjs\\\\jeux_memoire\\\\pages\\\\board.vue",
+    "chunkName": "pages/board"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Leo\\\\Site\\\\nuxtjs\\\\jeux_memoire\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_173218a4"
+    "chunkName": "pages/index"
   }
 ]
