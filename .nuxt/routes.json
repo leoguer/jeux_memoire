@@ -3,12 +3,14 @@
     "name": "board",
     "path": "/board",
     "component": "D:\\\\Leo\\\\Site\\\\nuxtjs\\\\jeux_memoire\\\\pages\\\\board.vue",
-    "chunkName": "pages/board"
+    "chunkName": "pages/board",
+    "_name": "_30d29690"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Leo\\\\Site\\\\nuxtjs\\\\jeux_memoire\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_173218a4"
   }
 ]
